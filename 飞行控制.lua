@@ -8,7 +8,7 @@
 -- 支持玩家和载具座位自动切换，玩家飞行模式下无法坐上任何座位
 
 -- 参数
-local Speed = 50     -- 普通速度
+local Speed = 60     -- 普通速度
 local BoostSpeed = 999  -- 加速速度
 local Enable = true   -- 脚本总开关
 
